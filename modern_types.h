@@ -23,4 +23,6 @@ typedef double f64;
 typedef size_t usize;
 typedef ptrdiff_t isize;
 
+typedef void* any;
+
 #endif // !DEFINES_H
